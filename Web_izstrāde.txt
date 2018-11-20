@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+
+<head>
+<title>Hello world!</title>
+<style>
+ a {
+   color: red;
+ }
+
+ a:hover {
+   color: yellow;;
+ }
+
+ li:last-child {
+     text-decoration: underline;
+ }
+
+ li:not(:first-child) {
+    background-coloe: aqua;
+ }
+  </style>
+</head>
+
+<body>
